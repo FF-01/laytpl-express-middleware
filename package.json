@@ -1,0 +1,24 @@
+{
+  "name": "laytpl",
+  "version": "2.0.0",
+  "description": "JavaScript templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/layui/laytpl.git"
+  },
+  "keywords": [
+    "template",
+    "engine",
+    "laytpl"
+  ],
+  "author": "贤心",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://fly.layui.com/"
+  },
+  "homepage": "http://www.layui.com/doc/modules/laytpl.html"
+}
